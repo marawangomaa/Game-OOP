@@ -30,8 +30,8 @@ export class Ui {
               
                        <footer class="card-footer small hstack justify-content-between">
               
-                          <span class="badge badge-color">${data[i].genre}</span>
-                          <span class="badge badge-color">${data[i].platform}</span>
+                          <span class="badge text-white badge-color">${data[i].genre}</span>
+                          <span class="badge text-white badge-color">${data[i].platform}</span>
               
                        </footer>
                     </div>
